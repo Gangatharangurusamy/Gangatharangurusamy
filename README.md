@@ -65,10 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
 </div>
 
-##
 ![Snake animation](https://github.com/Gangatharangurusamy/Gangatharangurusamy/blob/main/dist/snake.svg)
-
-##
 
 
 ###
