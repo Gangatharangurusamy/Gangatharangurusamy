@@ -66,7 +66,7 @@
 </div>
 
 ##
-![Snake animation](https://github.com/Gangatharangurusamy/Gangatharangurusamy/blob/output/snake.svg)
+![Snake animation](https://github.com/Gangatharangurusamy/Gangatharangurusamy/blob/main/dist/snake.svg)
 
 ##
 
