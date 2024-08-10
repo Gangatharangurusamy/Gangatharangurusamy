@@ -76,9 +76,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gangatharangurusamy/Gangatharangurusamy/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Gangatharangurusamy/Gangatharangurusamy/blob/output/snake.svg)
 
 ###
 
