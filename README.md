@@ -2,7 +2,7 @@
 
 ## Passionate about ML and MLOps 
 
-- 🔭 I’m currently pursing a Masters degree in AI
+- 🔭 I’m currently pursing a Masters degree in AI and ML
 - 🌱 I’m currently learning SQL and Deep Learning
 - 👯 I’m looking to collaborate on end-to-end Machine Learning Projects
 - 💬 Ask me about Machine Learning
